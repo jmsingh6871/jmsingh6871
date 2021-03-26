@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Flutter Projects in  [Budding Programmers](https://buddingprogrammers.com/) 
+- 🔭 I’m currently working on MERN Projects in  [pixXmo](https://pixXmo.com/) 
 - 🌱 I’m currently learning **New Tech Stuff**
 - 💬 Ask me about Python, C++, C
 - 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/jagmohan-singh-6102a117b/), [Gmail](jmsingh6871@gmail.com)
